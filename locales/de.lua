@@ -23,12 +23,12 @@ Locales['de'] = {
   ['error_left_menu'] = 'es sieht so aus als wärst du dem Kofferraum entkommen!',
 
   -- Key Chain
-  ['keychain_title'] = 'schlüsselbung - Hauptmenü',
-  ['keychain_actions_title'] = 'schlüsselbung - Aktionen',
+  ['keychain_title'] = 'schlüsselbund - Hauptmenü',
+  ['keychain_actions_title'] = 'schlüsselbund - Aktionen',
   ['keychain_givekey'] = 'schlüssel geben',
   ['keychain_dropkey'] = 'schlüssel wegwerfen',
   ['keychain_dropped'] = 'du hast den Schlüssel weggeworfen!',
-  ['keychain_give_title'] = 'schlüsselbung - Schlüssel geben',
+  ['keychain_give_title'] = 'schlüsselbund - Schlüssel geben',
   ['keychain_give_nonearby'] = 'es ist niemand in der nähe!',
   ['keychain_give_playerlost'] = 'spieler wurde nicht gefunden oder ist zu weit weg!',
   ['keychain_given'] = 'du hast die Schlüssel zu dem Fahrzeug mit dem Kennzeichen ~y~%s~s~ abgegeben',
